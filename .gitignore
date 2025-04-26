@@ -45,7 +45,13 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 # Mac crap
+
 .DS_Store
 # NetBeans files
 /nbproject/
 .idea
+
+############
+## Customization
+
+user/config.php
